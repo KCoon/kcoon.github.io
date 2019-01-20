@@ -1,10 +1,8 @@
 <div class="topnav">
     {% for item in site.data.navigation %}
     <a href="{{ item.link }}" 
-        {% if 
-            (page.url == item.link) 
-            or (page.url == "/" and item.link == "/index.html") %}
-                class="active"
+        {% if (page.url == item.link) %}
+            class="active"
         {% endif %}>
         {{ item.name }}
     </a>
