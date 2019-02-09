@@ -1,7 +1,15 @@
 body{
     background-color: #151515;
     color: white;
+    font-size: 60px;
 }
+
+// @media (orientation: landscape) {
+//   body {
+//     background-color: lightblue;
+//   }
+// }
+
 .current {
     color: green;
 }
@@ -9,22 +17,52 @@ body{
 p {
     margin: 10px 0px 0px 50px;
     font-family: Arial, Helvetica, sans-serif;
-    height: 500%;
-    font-size: larger;
+}
+
+@media (-webkit-max-device-pixel-ratio : 1.5){
+    body {
+        font-size: 14px;
+    }
+    div.content
+    {
+        font-size: 14px;
+    }
 }
 
 a{
     color: blueweb;
 }
 
-div.highlight {
+
+div{
+    position: absolute;
+}
+
+.highlight {
     margin: 10px 0px 0px 50px;
+}
+
+.content
+{
+    width: 100%;
+    font-size: 28px;
+    top: 0px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    bottom: 70px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+
 }
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #333;
-    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #333333;
+    transition: top 0.6s;
+    z-index: 2;
   }
   
   /* Style the links inside the navigation bar */
@@ -34,7 +72,6 @@ div.highlight {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
   }
   
   /* Change the color of links on hover */
@@ -52,6 +89,15 @@ div.highlight {
   .footer {
   width: 100%;
   color: #4CAF50;
+  background: #333;
   text-align: center;
-  font-size: large;
+  position: fixed;
+  bottom: 0px;
+  padding-bottom: 10px;
+  top: auto;
+  z-index: 2;
+}
+
+.footer a{
+    color: #4CAF50;
 }
