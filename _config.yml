@@ -15,4 +15,6 @@ defaults:
       
 highlighter: rouge
 
+host: 0.0.0.0
+
 excerpt_separator: <!--more-->
