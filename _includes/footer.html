@@ -1,4 +1,8 @@
-<div class="footer">
-    <a href="impressum.html">Impressum</a>
-    <a href="datenschutz.html">Datenschutz</a>
+<div id="footer">
+    <a href="impressum.html" {% if (page.url == "/impressum.html") %}
+                                class="active"
+                             {% endif %}>Impressum</a>
+    <a href="datenschutz.html" {% if (page.url == "/datenschutz.html") %}
+                                 class="active"
+                               {% endif %}>Datenschutz</a>
 </div>
