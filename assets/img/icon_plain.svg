@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg4838"
+   viewBox="0 0 245.50505 116.13661"
+   height="32.776333mm"
+   width="69.28698mm">
+  <defs
+     id="defs4840" />
+  <metadata
+     id="metadata4843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-163.09877,-185.62024)"
+     id="layer1">
+    <flowRoot
+       transform="translate(152.85714,-5)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:MathJax_Fraktur;-inkscape-font-specification:MathJax_Fraktur;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5386"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5388"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;font-family:MathJax_Fraktur;-inkscape-font-specification:MathJax_Fraktur"
+           y="189.50507"
+           x="62.857143"
+           height="130.28227"
+           width="260.9632"
+           id="rect5390" /></flowRegion><flowPara
+         id="flowPara5392">Coon</flowPara></flowRoot>    <flowRoot
+       transform="translate(117.14286,-136.42857)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;line-height:125%;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5402"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5404"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic"
+           y="284.1412"
+           x="44.699249"
+           height="176.01906"
+           width="193.69676"
+           id="rect5406" /></flowRegion><flowPara
+         id="flowPara5408">K</flowPara></flowRoot>    <rect
+       transform="matrix(0.83789694,-0.54582847,0.54582847,0.83789694,0,0)"
+       ry="1.2626907"
+       y="346.60297"
+       x="102.55087"
+       height="2.5253813"
+       width="22.223356"
+       id="rect5427"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+    <rect
+       transform="matrix(0.83057428,-0.55690786,0.55690786,0.83057428,0,0)"
+       ry="1.2626907"
+       y="372.29346"
+       x="134.22589"
+       height="2.5253813"
+       width="22.223356"
+       id="rect5427-5"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+    <g
+       id="g5503">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#697777;stroke-width:1.66723382;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5410"
+         cx="292.05032"
+         cy="259.66412"
+         r="4.0404902" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path5501"
+         cx="369.06836"
+         cy="-56.447819"
+         rx="1.093742"
+         ry="0.72662854"
+         transform="matrix(0.65358107,0.75685652,-0.92622326,0.37697542,0,0)" />
+    </g>
+    <g
+       id="g5503-0"
+       transform="translate(44.125039,-0.01913431)">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#697777;stroke-width:1.66723382;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5410-0"
+         cx="292.05032"
+         cy="259.66412"
+         r="4.0404902" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path5501-0"
+         cx="369.06836"
+         cy="-56.447819"
+         rx="1.093742"
+         ry="0.72662854"
+         transform="matrix(0.65358107,0.75685652,-0.92622326,0.37697542,0,0)" />
+    </g>
+  </g>
+</svg>

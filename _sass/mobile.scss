@@ -1,3 +1,14 @@
+
+$color1_old : #4CAF50;
+
+$color1 : #8e9934ff;
+$color2 : #333333;
+$color3 : #f2f2f2;
+$color4 : #ddd;
+$color5 : black;
+$color6 : rgb(240, 250, 161);
+
+
 #topnav {
     position: fixed;
     top: 0;
@@ -10,27 +21,31 @@
     a {
         font-size: 1.5em;
         float: left;
-        color: #f2f2f2;
+        color: $color3;
         padding: 14px 16px;
         text-decoration: none;
         
         /* Change the color of links on hover */
         &:hover {
-            background-color: #ddd;
-            color: black;
+            background-color: $color4;
+            color: $color5;
+        }
+        
+        &:active {
+        background-color: $color6;
         }
         
         /* Add a color to the active/current link */
         &.active {
-        background-color: #4CAF50;
-        color: white;
+        background-color: $color1;
+        color: $color3;
         }
     }
 }
 
 #footer {
     width: 100%;
-    background: #333;
+    background: $color2;
     text-align: center;
     position: fixed;
     bottom: 0;
@@ -42,19 +57,23 @@
         float: left;
         width: 50%;
         font-size: 1em;
-        color: #f2f2f2;
+        color: $color3;
         padding-top: 15px;
         padding-bottom: 15px;
         text-decoration: none;
 
         &:hover {
-            background-color: #ddd;
-            color: black;
+            background-color: $color4;
+            color: $color5;
+        }
+        
+        &:active {
+        background-color: $color6;
         }
         
         &.active {
-        background-color: #4CAF50;
-        color: white;
+        background-color: $color1;
+        color: $color3;
         }
     }
 }
